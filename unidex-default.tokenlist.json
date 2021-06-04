@@ -2913,12 +2913,12 @@
       "logoURI": "https://bscscan.com/token/images/xrp_32.png"
     },
     {
-      "name": "Tezos Token",
-      "symbol": "XTZ",
-      "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/tezos_32.png"
+      "logoURI": "https://bscscan.com/token/images/ethereum_32.png"
     },
     {
       "name": "Venus",
