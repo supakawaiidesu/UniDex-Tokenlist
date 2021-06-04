@@ -4944,7 +4944,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9651.png"
     },
     {
-      "name": "Wrapped ETH",
+      "name": "Wrapped Ethereum",
       "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
       "symbol": "WETH",
       "decimals": 18,
