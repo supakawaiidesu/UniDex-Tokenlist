@@ -5568,6 +5568,14 @@
       "logoURI": "https://ftmscan.com/token/images/CurveFi_32.png"
     },
     {
+      "name": "SpiritSwap",
+      "address": "0x5cc61a78f164885776aa610fb0fe1257df78e59b",
+      "symbol": "SPIRIT",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10239.png"
+    },
+    {
       "name": "Dai Stablecoin",
       "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
       "symbol": "DAI",
