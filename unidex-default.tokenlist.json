@@ -8928,7 +8928,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
     },
     {
-      "chainId": 1666700000,
+      "chainId": 166670000,
       "address": "0x1E120B3b4aF96e7F394ECAF84375b1C661830013",
       "symbol": "1ETH",
       "name": "OneETH",
