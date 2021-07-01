@@ -5709,7 +5709,7 @@
       "address": "0x85dec8c4B2680793661bCA91a8F129607571863d",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "/images/coins/0x85dec8c4B2680793661bCA91a8F129607571863d.png"
+      "logoURI": "https://exchange.paintswap.finance/images/coins/0x85dec8c4B2680793661bCA91a8F129607571863d.png"
     },
     {
       "name": "Frapped USDT",
@@ -5725,7 +5725,7 @@
       "symbol": "CzTears",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "/images/0x907f1A48918Bb5DE07c12443CAB0e6EEfCC611BC.png"
+      "logoURI": "https://exchange.paintswap.finance/images/coins/0x907f1A48918Bb5DE07c12443CAB0e6EEfCC611BC.png"
     },
     {
       "name": "Popsicle finance",
@@ -5733,7 +5733,7 @@
       "symbol": "ICE",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "/images/0xf16e81dce15B08F326220742020379B855B87DF9.png"
+      "logoURI": "https://exchange.paintswap.finance/images/coins/0xf16e81dce15B08F326220742020379B855B87DF9.png"
     },
     {
       "name": "Zoocoin Cash",
@@ -5741,7 +5741,7 @@
       "symbol": "ZOO",
       "decimals": 0,
       "chainId": 250,
-      "logoURI": "/images/0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56.png"
+      "logoURI": "https://exchange.paintswap.finance/images/coins/0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56.png"
     },
     {
       "name": "Chad Finance",
@@ -5749,7 +5749,7 @@
       "symbol": "CHAD",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "/images/0xCcE93540b80ABF71B66E0a44fd71E322cE9C4D9e.png"
+      "logoURI": "https://exchange.paintswap.finance/images/coins/0xCcE93540b80ABF71B66E0a44fd71E322cE9C4D9e.png"
     },
     {
       "name": "Tomb Finance",
@@ -5757,7 +5757,7 @@
       "symbol": "TOMB",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "/images/0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7.png"
+      "logoURI": "https://exchange.paintswap.finance/images/coins/0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7.png"
     },
     {
       "name": "Shiba Fantom",
@@ -5765,7 +5765,7 @@
       "symbol": "SHIBA",
       "decimals": 9,
       "chainId": 250,
-      "logoURI": "/images/0x9ba3e4f84a34df4e08c112e1a0ff148b81655615.png"
+      "logoURI": "https://exchange.paintswap.finance/images/coins/0x9Ba3e4F84a34DF4e08C112e1a0FF148b81655615.png"
     },
 
     {
