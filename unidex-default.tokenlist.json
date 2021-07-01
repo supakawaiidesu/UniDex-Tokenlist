@@ -5704,6 +5704,14 @@
       "logoURI": "https://ftmscan.com/token/images/fUSD_32.png"
     },
     {
+      "name": "Paint Token",
+      "symbol": "BRUSH",
+      "address": "0x85dec8c4B2680793661bCA91a8F129607571863d",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/0x85dec8c4B2680793661bCA91a8F129607571863d.png"
+    },
+    {
       "name": "Frapped USDT",
       "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
       "symbol": "fUSDT",
@@ -5711,6 +5719,55 @@
       "chainId": 250,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
+    {
+      "name": "CzTears",
+      "address": "0x907f1A48918Bb5DE07c12443CAB0e6EEfCC611BC",
+      "symbol": "CzTears",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "/images/0x907f1A48918Bb5DE07c12443CAB0e6EEfCC611BC.png"
+    },
+    {
+      "name": "Popsicle finance",
+      "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
+      "symbol": "ICE",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "/images/0xf16e81dce15B08F326220742020379B855B87DF9.png"
+    },
+    {
+      "name": "Zoocoin Cash",
+      "address": "0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56",
+      "symbol": "ZOO",
+      "decimals": 0,
+      "chainId": 250,
+      "logoURI": "/images/0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56.png"
+    },
+    {
+      "name": "Chad Finance",
+      "address": "0xCcE93540b80ABF71B66E0a44fd71E322cE9C4D9e",
+      "symbol": "CHAD",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "/images/0xCcE93540b80ABF71B66E0a44fd71E322cE9C4D9e.png"
+    },
+    {
+      "name": "Tomb Finance",
+      "address": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
+      "symbol": "TOMB",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "/images/0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7.png"
+    },
+    {
+      "name": "Shiba Fantom",
+      "address": "0x9ba3e4f84a34df4e08c112e1a0ff148b81655615",
+      "symbol": "SHIBA",
+      "decimals": 9,
+      "chainId": 250,
+      "logoURI": "/images/0x9ba3e4f84a34df4e08c112e1a0ff148b81655615.png"
+    },
+
     {
       "name": "fWTI Oil",
       "address": "0xe297e06761a5489380538A0308B6F9b4A53Bea45",
