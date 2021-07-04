@@ -9215,7 +9215,7 @@
         "chainId": 42220,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cDOGE.png"
-      }
+      },
       {
         "name": "Wrapped ONE",
         "address": "0x7a2afac38517d512E55C0bCe3b6805c10a04D60F",
