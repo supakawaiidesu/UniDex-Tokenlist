@@ -5616,6 +5616,22 @@
         "logoURI": "https://ftmscan.com/token/images/CurveFi_32.png"
       },
       {
+        "name": "Shrapnel",
+        "address": "0xbf4906762c38f50bc7be0a11bb452c944f6c72e1",
+        "symbol": "SHARP",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://swap.fbomb.finance/images/coins/0xbf4906762C38F50bC7Be0A11BB452C944f6C72E1.png"
+      },
+      {
+        "name": "BOMB",
+        "address": "0x8503eb4a136bdbeb323e37aa6e0fa0c772228378",
+        "symbol": "BOMB",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://swap.fbomb.finance/images/coins/bomb.png"
+      },
+      {
         "name": "SpiritSwap",
         "address": "0x5cc61a78f164885776aa610fb0fe1257df78e59b",
         "symbol": "SPIRIT",
@@ -5632,6 +5648,94 @@
         "logoURI": "https://ftmscan.com/token/images/MCDDai_32.png"
       },
       {
+        "name": "Frax",
+        "address": "0xaf319E5789945197e365E7f7fbFc56B130523B33",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://ftmscan.com/token/images/fraxfinance_32.png"
+      },
+      {
+        "name": "fSilver",
+        "address": "0xf15e88EEf35BF4709A4C3E99c00358F9247D4531",
+        "symbol": "fSILVER",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://repository.fantom.network/logos/silver.svg"
+      },
+      {
+        "name": "Fantom USD",
+        "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
+        "symbol": "fUSD",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://ftmscan.com/token/images/fUSD_32.png"
+      },
+      {
+        "name": "Paint Token",
+        "symbol": "BRUSH",
+        "address": "0x85dec8c4B2680793661bCA91a8F129607571863d",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://exchange.paintswap.finance/images/coins/0x85dec8c4B2680793661bCA91a8F129607571863d.png"
+      },
+      {
+        "name": "Frapped USDT",
+        "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+        "symbol": "fUSDT",
+        "decimals": 6,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      },
+      {
+        "name": "CzTears",
+        "address": "0x907f1A48918Bb5DE07c12443CAB0e6EEfCC611BC",
+        "symbol": "CzTears",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://exchange.paintswap.finance/images/coins/0x907f1A48918Bb5DE07c12443CAB0e6EEfCC611BC.png"
+      },
+      {
+        "name": "Popsicle finance",
+        "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
+        "symbol": "ICE",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://exchange.paintswap.finance/images/coins/0xf16e81dce15B08F326220742020379B855B87DF9.png"
+      },
+      {
+        "name": "Zoocoin Cash",
+        "address": "0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56",
+        "symbol": "ZOO",
+        "decimals": 0,
+        "chainId": 250,
+        "logoURI": "https://exchange.paintswap.finance/images/coins/0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56.png"
+      },
+      {
+        "name": "Chad Finance",
+        "address": "0xCcE93540b80ABF71B66E0a44fd71E322cE9C4D9e",
+        "symbol": "CHAD",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://exchange.paintswap.finance/images/coins/0xCcE93540b80ABF71B66E0a44fd71E322cE9C4D9e.png"
+      },
+      {
+        "name": "Tomb Finance",
+        "address": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
+        "symbol": "TOMB",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://exchange.paintswap.finance/images/coins/0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7.png"
+      },
+      {
+        "name": "Shiba Fantom",
+        "address": "0x9ba3e4f84a34df4e08c112e1a0ff148b81655615",
+        "symbol": "SHIBA",
+        "decimals": 9,
+        "chainId": 250,
+        "logoURI": "https://exchange.paintswap.finance/images/coins/0x9Ba3e4F84a34DF4e08C112e1a0FF148b81655615.png"
+      },
+        {
         "name": "fBAND",
         "address": "0x078EEF5A2fb533e1a4d487ef64b27DF113d12C32",
         "symbol": "fBAND",
@@ -5727,95 +5831,6 @@
         "chainId": 250,
         "logoURI": "https://repository.fantom.network/logos/link.svg"
       },
-      {
-        "name": "Frax",
-        "address": "0xaf319E5789945197e365E7f7fbFc56B130523B33",
-        "symbol": "FRAX",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://ftmscan.com/token/images/fraxfinance_32.png"
-      },
-      {
-        "name": "fSilver",
-        "address": "0xf15e88EEf35BF4709A4C3E99c00358F9247D4531",
-        "symbol": "fSILVER",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://repository.fantom.network/logos/silver.svg"
-      },
-      {
-        "name": "Fantom USD",
-        "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
-        "symbol": "fUSD",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://ftmscan.com/token/images/fUSD_32.png"
-      },
-      {
-        "name": "Paint Token",
-        "symbol": "BRUSH",
-        "address": "0x85dec8c4B2680793661bCA91a8F129607571863d",
-        "chainId": 250,
-        "decimals": 18,
-        "logoURI": "https://exchange.paintswap.finance/images/coins/0x85dec8c4B2680793661bCA91a8F129607571863d.png"
-      },
-      {
-        "name": "Frapped USDT",
-        "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
-        "symbol": "fUSDT",
-        "decimals": 6,
-        "chainId": 250,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-      },
-      {
-        "name": "CzTears",
-        "address": "0x907f1A48918Bb5DE07c12443CAB0e6EEfCC611BC",
-        "symbol": "CzTears",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://exchange.paintswap.finance/images/coins/0x907f1A48918Bb5DE07c12443CAB0e6EEfCC611BC.png"
-      },
-      {
-        "name": "Popsicle finance",
-        "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
-        "symbol": "ICE",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://exchange.paintswap.finance/images/coins/0xf16e81dce15B08F326220742020379B855B87DF9.png"
-      },
-      {
-        "name": "Zoocoin Cash",
-        "address": "0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56",
-        "symbol": "ZOO",
-        "decimals": 0,
-        "chainId": 250,
-        "logoURI": "https://exchange.paintswap.finance/images/coins/0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56.png"
-      },
-      {
-        "name": "Chad Finance",
-        "address": "0xCcE93540b80ABF71B66E0a44fd71E322cE9C4D9e",
-        "symbol": "CHAD",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://exchange.paintswap.finance/images/coins/0xCcE93540b80ABF71B66E0a44fd71E322cE9C4D9e.png"
-      },
-      {
-        "name": "Tomb Finance",
-        "address": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
-        "symbol": "TOMB",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://exchange.paintswap.finance/images/coins/0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7.png"
-      },
-      {
-        "name": "Shiba Fantom",
-        "address": "0x9ba3e4f84a34df4e08c112e1a0ff148b81655615",
-        "symbol": "SHIBA",
-        "decimals": 9,
-        "chainId": 250,
-        "logoURI": "https://exchange.paintswap.finance/images/coins/0x9Ba3e4F84a34DF4e08C112e1a0FF148b81655615.png"
-      },
-  
       {
         "name": "fWTI Oil",
         "address": "0xe297e06761a5489380538A0308B6F9b4A53Bea45",
