@@ -13,14 +13,6 @@
       "default"
     ],
     "tokens": [
-      {
-        "address": "0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c",
-        "chainId": 1,
-        "name": "UniDex",
-        "symbol": "UNIDX",
-        "decimals": 18,
-        "logoURI": "https://i.imgur.com/Y7UklSl.jpg"
-      },
         {
         "address": "0x111111111117dC0aa78b770fA6A738034120C302",
         "chainId": 1,
