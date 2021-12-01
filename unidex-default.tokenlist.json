@@ -5185,7 +5185,7 @@
       },
       {
         "name": "GIZA",
-        "address": "0x3389492f36642f27f7bf4a7749fb3fc2c8fbb7ee",
+        "address": "0x3389492f36642f27F7bF4a7749fb3FC2c8fbB7EE",
         "symbol": "GIZA",
         "decimals": 18,
         "chainId": 250,
