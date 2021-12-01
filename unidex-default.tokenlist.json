@@ -5184,6 +5184,14 @@
         "logoURI": "https://swap.fbomb.finance/images/coins/0xbf4906762C38F50bC7Be0A11BB452C944f6C72E1.png"
       },
       {
+        "name": "GIZA",
+        "address": "0x3389492f36642f27f7bf4a7749fb3fc2c8fbb7ee",
+        "symbol": "GIZA",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://pbs.twimg.com/profile_images/1454537818277957637/_dLPsk9__400x400.jpg"
+      },
+      {
         "name": "BOMB",
         "address": "0x8503eb4a136bdbeb323e37aa6e0fa0c772228378",
         "symbol": "BOMB",
